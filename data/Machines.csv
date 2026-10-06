@@ -1,0 +1,7 @@
+MachineID,MachineName,LineID
+"MAC-10","CNC Mill","LINE-A"
+"MAC-11","Stamping Press","LINE-A"
+"MAC-20","Paint Booth","LINE-B"
+"MAC-21","Polishing Station","LINE-B"
+"MAC-30","Injection Molder","LINE-C"
+"MAC-31","Circuit Printer","LINE-C"

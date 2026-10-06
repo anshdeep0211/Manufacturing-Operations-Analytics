@@ -1,0 +1,5 @@
+InventoryID,MaterialID,Quantity,Location
+"INV-MAT-01","MAT-01","2261","Warehouse C"
+"INV-MAT-02","MAT-02","4578","Warehouse B"
+"INV-MAT-03","MAT-03","4620","Warehouse A"
+"INV-MAT-04","MAT-04","3296","Warehouse C"
